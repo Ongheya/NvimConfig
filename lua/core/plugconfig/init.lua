@@ -10,5 +10,6 @@ require("core.plugconfig.comment")
 require("core.plugconfig.gitsigns")
 require("core.plugconfig.fidget")
 require("core.plugconfig.cmp")
+require("core.plugconfig.luasnip")
 
 

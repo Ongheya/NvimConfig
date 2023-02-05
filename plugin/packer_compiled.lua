@@ -99,6 +99,11 @@ _G.packer_plugins = {
     path = "C:\\Users\\Ongheya\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\fidget.nvim",
     url = "https://github.com/j-hui/fidget.nvim"
   },
+  ["friendly-snippets"] = {
+    loaded = true,
+    path = "C:\\Users\\Ongheya\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\friendly-snippets",
+    url = "https://github.com/rafamadriz/friendly-snippets"
+  },
   ["gitsigns.nvim"] = {
     loaded = true,
     path = "C:\\Users\\Ongheya\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\gitsigns.nvim",
